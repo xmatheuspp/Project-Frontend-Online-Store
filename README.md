@@ -1,6 +1,6 @@
-<!-- # Boas-vindas ao repositório do projeto Front-end Online Store!
+# Boas-vindas ao repositório do projeto Front-end Online Store!
 
-Para realizar o projeto, atente a cada passo descrito a seguir e, se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
+<!-- Para realizar o projeto, atente a cada passo descrito a seguir e, se tiver qualquer dúvida, nos envie por Slack! #vqv 🚀
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento de seu projeto com base neste repositório utilizando uma branch específica e um Pull Request para colocar seus códigos.
 
@@ -19,11 +19,11 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 </details> -->
 
 <details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
 
-  Neste projeto, foi criado uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo as funcionalidades dela de acordo com demandas definidas em um quadro _Kanban_, em um cenário próximo ao do mercado de trabalho.
+  Neste projeto, foi desenvolvido uma versão simplificada, sem persistência no banco de dados, de uma **loja online**, desenvolvendo em grupo as funcionalidades dela de acordo com demandas definidas em um quadro _Kanban_, em um cenário próximo ao do mercado de trabalho.
   
-  Com base nessas demandas, será desenvolvida uma aplicação em que as pessoas usuárias poderão:
+  Com base nessas demandas, foi desenvolvido uma aplicação em que as pessoas usuárias poderão:
   - Buscar produtos por termos e categorias por meio da _API do Mercado Livre_.
   - Interagir com os produtos buscados, de modo a adicioná-los e removê-los de um carrinho de compras em diferentes quantidades.
   - Visualizar detalhes e avaliações prévias de um produto, bem como criar novas avaliações.
